@@ -1,8 +1,8 @@
-📽️ UTS - Aplikasi Pemesanan Tiket Bioskop (JSP)
-✏️ Deskripsi Project
+# 📽️ UTS - Aplikasi Pemesanan Tiket Bioskop (JSP)
+## ✏️ Deskripsi Project
 Proyek ini merupakan aplikasi web sederhana berbasis JSP (Java Server Pages) yang memungkinkan pengguna untuk melihat daftar film dan melakukan pemesanan tiket bioskop tanpa menggunakan database.
 
-Aplikasi ini terdiri dari beberapa halaman utama:
+## Aplikasi ini terdiri dari beberapa halaman utama:
 
 index.jsp — Halaman selamat datang atau pengantar
 
@@ -12,7 +12,7 @@ formPesan.jsp — Formulir pemesanan tiket oleh pengguna
 
 struk.jsp — Menampilkan ringkasan pemesanan sebagai struk
 
-Data film disimpan sementara menggunakan session tanpa koneksi ke database.
+## Data film disimpan sementara menggunakan session tanpa koneksi ke database.
 
 ### 🎞️ Halaman Index (Daftar Film)
 
@@ -27,7 +27,7 @@ Data film disimpan sementara menggunakan session tanpa koneksi ke database.
 ![Struk Pemesanan](img/struk.png)
 
 
-🛠️ Instruksi Cara Menjalankan Aplikasi
+## 🛠️ Instruksi Cara Menjalankan Aplikasi
 Persiapan Environment:
 
 Gunakan IDE seperti Apache NetBeans atau Eclipse dengan Apache Tomcat.
